@@ -31,19 +31,19 @@ To change:
 - hyperparameters, change lines 141-146.
 
 ## Visualise embeddings and sample key cosine distances
-To visualise embeddings and sample key cosine distances, Sections 4.1 and 4.2 from the report, navigate to the top-level directory (where this README is), and execute command `python visualise_embeddings.py`. 
+To visualise embeddings and sample key cosine distances, navigate to the top-level directory (where this README is), and execute command `python visualise_embeddings.py`. 
 
 To change:
 - the data sources, change lines 11-18.
 
 ## Semantic textual similarity (STS)
-To perform STS task, Section 4.3 from the report, navigate to the top-level directory (where this README is), and execute command `python sts_task.py`. 
+To perform STS task, navigate to the top-level directory (where this README is), and execute command `python sts_task.py`. 
 
 To change:
 - the data sources, change lines 14, 20, and 27.
 
 ## Text classification
-To perform downstream sentence classification, Section 4.4 from the report, navigate to the top-level directory (where this README is), and execute command `python text_classifier.py`. 
+To perform downstream sentence classification, navigate to the top-level directory (where this README is), and execute command `python text_classifier.py`. 
 
 To change:
 - the data sources, change lines 19-25.
