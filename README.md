@@ -2,6 +2,9 @@
 
 Learning appropriate word embeddings is crucial for a number of tasks in natural language processing, however, there is currently no accepted gold-standard evaluation criteria for assessing word embeddings. The primary focus of this codebase is to assess learned word embeddings using a number of evaluation criteria and then discuss the benefits and drawbacks of the approaches in a report.
 
+## Data
+The data used to train the word embedding model and train the sentence classifier is the AG News dataset. Information about this dataset can be found at: http://groups.di.unipi.it/~gulli/AG_corpus_of_news_articles.html and the dataset is freely available for non-commercial use.
+
 ## Requirements
 If you are using a Python version 3.10.8 and have:
 - matplotlib, 
